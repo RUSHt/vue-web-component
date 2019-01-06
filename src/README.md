@@ -1,4 +1,4 @@
-# wc-test-1
+# vue-web-compnent
 
 ## Build Web-Component
 ```

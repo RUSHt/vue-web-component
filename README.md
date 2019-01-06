@@ -1,4 +1,9 @@
-# wc-test-1
+# vue-web-compnent
+
+## Build Web-Component
+```
+./node_modules/.bin/vue-cli-service build --target wc --name my-custom-element ./src/main.js
+```
 
 ## Project setup
 ```
